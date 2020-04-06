@@ -2,7 +2,7 @@
 
 > Esta implementação foi apenas para testar como funciona essa biblioteca.
 
-![EditorJS](editors.gif)
+![EditorJS](editorjs.gif)
 
 ## Instalação
 
